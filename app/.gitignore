@@ -1,0 +1,15 @@
+# Build files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+
+# Sensitive data
+local.properties
+google-services.json
+
+# Your API Key! (IMPORTANT)
+gradle.properties
